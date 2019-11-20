@@ -1,0 +1,3 @@
+We can add a caching service like REDIS so that we can improve out perfomance.
+Instead of calculating distance everytime we can simple look up into cache ad if found we can return answer to query.
+This will decrease response time and as well increase perfomance of application.
